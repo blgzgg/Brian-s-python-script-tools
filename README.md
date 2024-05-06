@@ -8,3 +8,6 @@ A simple program that asks for your input and after checking if that input exist
 
     ~ getFileContent.py ~
 Program that takes the text content from any specified file types in the directory of the program and outputs the names of the files followed by their content. Very useful for feeding large project prompts to ai chatbots for debugging.
+
+    ~ Speed Notebook ~
+A journal entry program that will timestamp whatever text you input and close the application. More searching and statistic viewing options planned.
